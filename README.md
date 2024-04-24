@@ -45,10 +45,6 @@
   <h3>Limitations</h3>
     <ul>
         <li><strong>Data Requirements:</strong> Requires substantial data for effective training.</li>
-        <li><strong>Interpretability:</strong> Understanding model predictions may be challenging due to complex neural network structures.</li>
     </ul>
 
-   <h3>Future Improvements</h3>
-    <ul>
-        <li><strong>Incorporate additional informative features to enrich model inputs.</strong></li>
-    </ul>
+  
