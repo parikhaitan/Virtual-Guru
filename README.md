@@ -1,9 +1,9 @@
-<h1>Adaptive Learning<h1>
+<h1>Virtual Guru<h1>
 
 <h2>Phase 1: Using Random Forest</h2>
     <p>For the initial phase of the project, a Random Forest Classifier was employed.</p>
     <ul>
-        <li><strong>Dataset:</strong> Due to unavailability of proper dataset, generated using the script in random forest.ipynb.</li>
+        <li><strong>Dataset:</strong> Due to unavailability of proper dataset, generated using the script in <a href = "https://github.com/parikhaitan/Virtual-Guru/blob/main/virtual%20guru-%20random%20forest.ipynb">virtual-guru random forest.ipynb.</a></li>
         <li><strong>Accuracy:</strong> 99.28%</li>
     </ul>
 
